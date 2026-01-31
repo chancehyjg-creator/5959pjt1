@@ -1,0 +1,6 @@
+king_sales: 74988000.0
+others_sales: 231831910.0
+king_repeat: 36.86502177068215
+others_repeat: 45.541896283736044
+king_top_channel: 인스타그램
+others_top_channel: 카카오톡
